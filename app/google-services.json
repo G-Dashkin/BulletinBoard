@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "973996225930",
+    "project_id": "bulletinboard-f3007",
+    "storage_bucket": "bulletinboard-f3007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973996225930:android:347e8402f2b6fa2ec84473",
+        "android_client_info": {
+          "package_name": "com.example.bulletinboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973996225930-9tvs8jsts62danr45fn781vghueusg33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bulletinboard",
+            "certificate_hash": "079ca45cd09eb1c09bcd284c6a4283cb09c8da2e"
+          }
+        },
+        {
+          "client_id": "973996225930-tv5nbdmggk8b17ccnqlrgg6pkt7qpubi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_N4FxpWDkIWnfiu34RGn7jQDE7HRH6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973996225930-tv5nbdmggk8b17ccnqlrgg6pkt7qpubi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
